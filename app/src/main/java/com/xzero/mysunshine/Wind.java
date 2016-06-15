@@ -3,6 +3,7 @@ package com.xzero.mysunshine;
 
 public class Wind{
    	private Number deg;
+   	private Number deg2;
    	private Number gust;
    	private Number speed;
 
