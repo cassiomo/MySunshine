@@ -4,6 +4,7 @@ package com.xzero.mysunshine;
 import java.util.List;
 
 public class Main{
+        private Integer testing;
    	private Number humidity;
    	private Number pressure;
    	private Number temp;
