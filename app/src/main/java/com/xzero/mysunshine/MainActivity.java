@@ -9,6 +9,7 @@ import android.view.MenuItem;
 public class MainActivity extends ActionBarActivity {
 
     private final static String url = "http://api.openweathermap.org/data/2.5/forecast/daily?q=94043&mode=json&units=metric&cnt=7";
+    private final static String testurl = "http://api.openweathermap.org/data/2.5/forecast/daily?q=94043&mode=json&units=metric&cnt=7";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
