@@ -5,6 +5,7 @@ import java.util.List;
 
 public class MyWeather{
    	private String base;
+   	private String base2;
    	private Clouds clouds;
    	private Number cod;
    	private Coord coord;
